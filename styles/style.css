@@ -1,0 +1,59 @@
+body {
+  background-color: gray;
+}
+
+h1, p, div, button {
+  color: white;
+  position: relative;
+  text-align: center;
+  font-family: "Calibri", Monaco, monospace;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+#weather {
+  font-size: 50px;
+}
+
+#credits {
+  font-size: 20px; 
+}
+
+.link {
+  background: none;
+  border: none;
+  font-size: 50px;
+  color: blue;
+}
+
+.data {
+  font-size: 35px;
+  margin-top: -45px;
+}
+
+#city {
+  margin-top: 50px;
+}
+
+img {
+  margin-top: -200px;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+}
+
+#stat {
+  margin-bottom: -25px;
+}
+
+#city {
+  margin-top: -15px;
+}
+
+#degree {
+  cursor: pointer;
+}
